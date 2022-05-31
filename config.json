@@ -1,4 +1,4 @@
 {
     "botsahip":"852595410744377384",
-    "mongodb":"mongodb+srv://ludwiguptime:ludwigdeveloper123_@cluster0.nmott.mongodb.net/ludwiguptime?retryWrites=true&w=majority"
+    "mongodb":"MONGOID"
 }
